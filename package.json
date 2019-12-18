@@ -1,0 +1,29 @@
+{
+  "name": "sss-core-js",
+  "version": "0.0.0",
+  "description": "Js library for \"Sss-core\" cloud system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/denzo1993/sss-core-js.git"
+  },
+  "keywords": [
+    "sss-core",
+    "sss-core-js",
+    "cloud",
+    "storage",
+    "online",
+    "api",
+    "sss",
+    "storage"
+  ],
+  "author": "denzo1993@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denzo1993/sss-core-js/issues"
+  },
+  "homepage": "https://github.com/denzo1993/sss-core-js#readme"
+}
