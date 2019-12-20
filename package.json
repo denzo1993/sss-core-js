@@ -1,12 +1,10 @@
 {
   "name": "sss-core-js",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "Js library for \"Sss-core\" cloud system",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
