@@ -1,6 +1,6 @@
 {
   "name": "sss-core-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Js library for \"Sss-core\" cloud system",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
